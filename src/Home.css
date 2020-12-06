@@ -1,0 +1,14 @@
+*,
+*:before,
+*:after {
+  margin: 0;
+}
+
+.App {
+  width: 100vw;
+  background-color: #111;
+}
+
+.billoard {
+  width: 100%;
+}
